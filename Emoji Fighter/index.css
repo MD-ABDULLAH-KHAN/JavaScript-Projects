@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    color: orange;
+}
+#stage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 10px auto;
+    font-size: xx-large;
+}
+button{
+    background-color: orange;
+    color: white;
+    text-transform: uppercase;
+    font-size: large;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
